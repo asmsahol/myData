@@ -48,6 +48,14 @@
     "serviceTime": "14 years"
   },
   {
+    "id": 7,
+    "name": "Tailor Science",
+    "description": "Best Tailors company Bangladesh, best tailors in Bangladesh, best tailors in dhaka, mens tailor in Bangladesh, mens suits tailor in Bangladesh, tailors in Bangladesh, top ten tailors in B",
+    "img": "./images/department-7.jpg",
+    "department": "Kinder Garten",
+    "serviceTime": "10 years"
+  },
+  {
     "id": 8,
     "name": "Farming",
     "description": "As a learning solutions provider for many of the industry's top vendors, such as Microsoft and Cisco, New Horizons Dhaka is positioned to offer the latest authorized curriculum delivered",
@@ -86,13 +94,5 @@
     "img": "./images/department-12.jpg",
     "department": "Ebtedayee",
     "serviceTime": "15 years"
-  },
-  {
-    "id": 7,
-    "name": "Tailor Science",
-    "description": "Best Tailors company Bangladesh, best tailors in Bangladesh, best tailors in dhaka, mens tailor in Bangladesh, mens suits tailor in Bangladesh, tailors in Bangladesh, top ten tailors in B",
-    "img": "./images/department-7.jpg",
-    "department": "Kinder Garten",
-    "serviceTime": "10 years"
   }
 ]
