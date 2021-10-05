@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Hostel",
+    "description": "Orphans and the destitute have the benefit of free food. 365 days residential accommodation per year.",
+    "img": "./images/services-1.jpg",
+    "department": "Orphanage",
+    "monthlyFees": 3000
+  },
+  {
+    "id": 2,
+    "name": "Computer training",
+    "description": "As a learning solutions provider for many of the industry's top vendors, such as Microsoft and Cisco, New Horizons Dhaka is positioned to offer the latest authorized curriculum delivered",
+    "img": "./images/services-6.jpg",
+    "department": "Computer training",
+    "monthlyFees": 500
+  },
+  {
+    "id": 3,
+    "name": "Qaumi Section",
+    "description": "The Befaqul Mudarressin of Bangladesh Qawmi Madrasah Education Board was formed in 2004.[4] Soon afterwards, from August 2006, the Bangladeshi government began recognizing and supporting.",
+    "img": "./images/services-7.jpg",
+    "department": "Qaumi",
+    "monthlyFees": 1000
+  },
+  {
+    "id": 4,
+    "name": "PSC/ EEC Course",
+    "description": "Ebtedayee Exam Routine 2021. Ebtedayee Madrasa and Primary School Certificate (PSC) equivalent exam the largest public examinations in Bangladesh may be started from 2021.",
+    "img": "./images/services-2.jpg",
+    "department": "Ebtedayee",
+    "monthlyFees": 250
+  },
+  {
+    "id": 5,
+    "name": "JDC/ JSC Course",
+    "description": "Junior dakhil certificate exam will not be taken in the year 2021. In this case assignment submission or Assessment test could be a possible option. In the madrasah has taken the exam individually",
+    "img": "./images/services-3.jpg",
+    "department": "Alia Section",
+    "monthlyFees": 500
+  },
+  {
+    "id": 6,
+    "name": "Dakhil Course",
+    "description": "Madrasah Education Board approved the permission/recognition/renewal of Dakhil (S.S.C level) Alim (H.S.C level) according the rules of Govt.",
+    "img": "./images/services-4.jpg",
+    "department": "Alia Section",
+    "monthlyFees": 500
+  },
+  {
+    "id": 7,
+    "name": "Kinder Garten",
+    "description": "According to some estimates, the number of kindergarten schools in Bangladesh is 2,500. The Kindergarten Association, however, puts the number at about 5,000.",
+    "img": "./images/services-5.jpg",
+    "department": "Kinder Garten",
+    "monthlyFees": 250
+  },
+  {
+    "id": 8,
+    "name": "Hifz Section",
+    "description": "Hifz Madrasah is located in Cox's Bazar District, Chittagong Division. This business is working in the following industry: Primary and elementary schools.",
+    "img": "./images/services-8.jpg",
+    "department": "Noorani, Quami",
+    "serviceTime": 1000
+  }
+]
